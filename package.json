@@ -4,3 +4,5 @@
     "start": "if [ $APP_DIR ]; then cd $APP_DIR && npm start; fi"
   }
 }
+
+
